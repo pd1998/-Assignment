@@ -82,4 +82,3 @@ CREATE TABLE [dbo].table_USA(
 
 
 
-Select * from DEPARTMENT1
